@@ -13,3 +13,65 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 Python and Selenium based Voov Auto Online Meeting Joiner GUI Application.   
+
+
+## Acknowledgements
+
+ - [Try to use Update Chrome and ChromeDriver On system ](https://chromedriver.chromium.org/)
+ 
+## Installation Python Dependis
+
+Import Selenium
+```python
+  pip install Selenium
+```
+Import tkinter
+```python
+  pip install tkinter
+```
+
+# Download & Installation
+
+Download 
+```bash
+  git clone https://github.com/naemazam/Voov-Automation.git
+```
+
+Run Application 
+```python
+  python3 main.py
+```
+
+## USER Guide
+
+GUI app use is So much easy Put your meeting Link and Time on 24H format then start timer. 
+
+  
+## Roadmap
+
+- 1 Week Meeting List 
+- Auto Replay Chat Bot
+- Auto Class Recording 
+- Auto Driver Update
+
+- Add more integrations
+
+  
+## Authors
+
+- [KHOJIDDIN](https://github.com/KHOJIDDIN) 
+- [Naem Azam](https://github.com/naemazam)
+
+## Sponsors
+
+For ![Github-sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA), Massege Us [buy me a coffee](https://www.buymeacoffee.com/naemazam)
+  
+## Contributing
+
+Contributions are always welcome!
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+  

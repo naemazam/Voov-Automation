@@ -25,7 +25,7 @@ Online Class is A very good way to learning from home, But some times We forget 
 
  - [Try to use Update Chrome and ChromeDriver On system ](https://chromedriver.chromium.org/)
  
-## Installation Python Dependis
+## Installation Python Dependencies
 
 Import Selenium
 ```python

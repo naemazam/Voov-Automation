@@ -15,6 +15,12 @@
 Python and Selenium based Voov Auto Online Meeting Joiner GUI Application.   
 
 
+#  Story
+
+Online Class is A very good way to learning from home, But some times We forget Because we are in home or busy with some other work.
+
+
+
 ## Acknowledgements
 
  - [Try to use Update Chrome and ChromeDriver On system ](https://chromedriver.chromium.org/)

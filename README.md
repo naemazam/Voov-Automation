@@ -17,7 +17,7 @@ Python and Selenium based Voov Auto Online Meeting Joiner GUI Application.
 
 #  Story
 
-Online Class is A very good way to learning from home, But some times We forget Because we are in home or busy with some other work.
+Online Class is A very good way to learning from home, But some times We forget Because we are in home or busy with some other work. In internet there are many softwares available for Zoom and Google meet but For tencent Meeting There is no Software On There. This Time We are Deside To make a Autonomous Software for Join Meeting. It should be Installable and Light Weight.And One More Important thing is that, Steve Helped Me A lots for this Project. Thanks Brother.
 
 
 
